@@ -2,7 +2,8 @@
 
 ## Voortgang
 
-- Eerste les
+Eerste les
+
 In de eerste les ben ik eigenlijk begonnen met het analyseren van de video en deze een paar keer goed te bekijken (study situation). Ik vond het fragment nog best wel vaag en had meer achtergrond kennis nodig, dus ben ik thuis de film gaan kijken. Na dit gezien te hebben kende ik het verhaal en snapte ik het doel en het gevoel achter bepaalde scenes in het fragment. 
 Ook heb ik de eerste les de stemmen geanalyseerd. Ik heb opgeschreven hoe de stem klinkt en wat voor gevoel het me geeft.
 
@@ -24,21 +25,26 @@ Stem 3
 
 Ik merkte de eerste paar dagen dat ik moeilijk op gang kwam. Ik had wel een paar ideeen maar vond het moeilijk om ze te visualiseren. Het liefst had ik ook een heel plan vast staan voordat ik ging beginnen met code schrijven, maar ik merkte al snel dat dat niet mogelijk was en dat ik gewoon maar moest beginnen en dingen moest proberen.
 
-- Eerste voortgang
+Eerste voortgang
+
 Bij het eerste voortgang gesprek kreeg ik te horen dat wat ik had er prima uitzag en dat het idee van de tekst rechts in beeld grafisch leuk uitzag maar dat ik moest durven verder te gaan.
 
-- Vakantie
+Vakantie
+
 Tijdens de vakantie had ik gehoopt nog wat aan het vak te kunnen doen maar wist ik eigenlijk al dat het lastig ging worden. Ik ging de eerste helft van die week namelijk naar Lissabon op vakantie en de tweede helft heb ik gewerkt aan het vak Grid en Kleur omdat ik eind die week hier een herkansing van moest inleveren. 
 
-- Tweede voortgang
+Tweede voortgang
+
 Bij het tweede voortgangs gesprek had ik niet heel veel meer dan ervoor. Toch heb ik er wat aan gehad. Ik kreeg als feedback dat ik de trilling van de lange pieptoon beter op de video-mask kon zetten inplaats van video-container zodat de text niet mee trilt en beter te lezen zou zijn. Ook was het contrast tussen de tekst en achtergrond soms een beetje laag. Hierdoor heb ik er een text shadow achter geplaats.
 
-- Dagen voor eindgesprek
+Dagen voor eindgesprek
+
 De laatste dagen voor het eindgesprek heb ik nog veel dingetjes kunnen doen en veel geluiden kunnen visualiseren. Bij sommige duurde het lang voordat wat ik in mijn hoofd had daadwerkelijk lukte, en soms ging het sneller dan verwacht.
 
 ## Ontwerpkeuzes 
 
-- Brenner font
+Brenner font
+
 Ik heb gekozen om het brenner font te kiezen inplaats van het systeem font. Door dit font te gebruiken had ik meer keuze en kon ik echt een stijl geven aan een bepaalde stem.
 
 <img src="brenner-mono.png" alt=""> 
@@ -57,7 +63,7 @@ Voice 3 - Brenner sans - 400
 Voice3 is het zinnetje "fuck off skin job". Dit is net als voice 2 een "echt" persoon die je ziet, waardoor ik het brenner sans heb gegeven, maar wel met een lichter font-weight omdat hij niet een zware stem heeft en het bijna op een fluisterende manier zegt.
 
 
-- Geluid 1 - Alarm 
+Geluid 1 - Alarm 
 
 Bij het eerste geluid hoor een soort hard alarm afgaan. Hier heb ik ervoor gekozen om een rode box shadow toe te voegen die animeerd op het geluid van de alarm.
 Ik heb voor de kleur rood gekozen omdat als ik aan een alarm denk al snel aan de kleur rood denk.
@@ -78,7 +84,7 @@ Op het einde stopt de piep abrupt waarbij ik de trilling ook heb gestopt, maar d
 
 Tussen het piepgeluid door hoor je steeds een zacht herhaalbaar geklik. Het klinkt bijna als een soort geklik van een foto die gemaakt wordt. Hierdoor heb ik het gevisualiseerd alsof het lijkt op de flits van een camera.
 
-- Fragment 2
+Fragment 2
 
 Geluid 5 - beweegend spannend geluid
 
